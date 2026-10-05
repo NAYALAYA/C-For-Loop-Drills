@@ -1,0 +1,15 @@
+/Users/aniyacorivano/C-For-Loop-Drills/DrillThree/obj/Debug/net10.0/DrillThree.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniyacorivano/C-For-Loop-Drills/DrillThree/obj/Debug/net10.0/DrillThree.AssemblyInfoInputs.cache
+/Users/aniyacorivano/C-For-Loop-Drills/DrillThree/obj/Debug/net10.0/DrillThree.AssemblyInfo.cs
+/Users/aniyacorivano/C-For-Loop-Drills/DrillThree/obj/Debug/net10.0/DrillThree.csproj.CoreCompileInputs.cache
+/Users/aniyacorivano/C-For-Loop-Drills/DrillThree/obj/Debug/net10.0/DrillThree.sourcelink.json
+/Users/aniyacorivano/C-For-Loop-Drills/DrillThree/bin/Debug/net10.0/DrillThree
+/Users/aniyacorivano/C-For-Loop-Drills/DrillThree/bin/Debug/net10.0/DrillThree.deps.json
+/Users/aniyacorivano/C-For-Loop-Drills/DrillThree/bin/Debug/net10.0/DrillThree.runtimeconfig.json
+/Users/aniyacorivano/C-For-Loop-Drills/DrillThree/bin/Debug/net10.0/DrillThree.dll
+/Users/aniyacorivano/C-For-Loop-Drills/DrillThree/bin/Debug/net10.0/DrillThree.pdb
+/Users/aniyacorivano/C-For-Loop-Drills/DrillThree/obj/Debug/net10.0/DrillThree.dll
+/Users/aniyacorivano/C-For-Loop-Drills/DrillThree/obj/Debug/net10.0/refint/DrillThree.dll
+/Users/aniyacorivano/C-For-Loop-Drills/DrillThree/obj/Debug/net10.0/DrillThree.pdb
+/Users/aniyacorivano/C-For-Loop-Drills/DrillThree/obj/Debug/net10.0/DrillThree.genruntimeconfig.cache
+/Users/aniyacorivano/C-For-Loop-Drills/DrillThree/obj/Debug/net10.0/ref/DrillThree.dll
