@@ -12,3 +12,4 @@
 /Users/aniyacorivano/C-For-Loop-Drills/DrillTwo/obj/Debug/net10.0/DrillTwo.pdb
 /Users/aniyacorivano/C-For-Loop-Drills/DrillTwo/obj/Debug/net10.0/DrillTwo.genruntimeconfig.cache
 /Users/aniyacorivano/C-For-Loop-Drills/DrillTwo/obj/Debug/net10.0/ref/DrillTwo.dll
+/Users/aniyacorivano/C-For-Loop-Drills/DrillTwo/obj/Debug/net10.0/DrillTwo.sourcelink.json

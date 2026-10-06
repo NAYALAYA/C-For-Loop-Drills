@@ -11,7 +11,7 @@ class Program
         {
             // TODO: Print the current index and fruit name
             // Example output: "Index 0: Apple"
-            Console.WriteLine($"Index{index}: {fruit}");
+            Console.WriteLine("Index " + i + ": " + fruits[i]);
         }
     }
 }
