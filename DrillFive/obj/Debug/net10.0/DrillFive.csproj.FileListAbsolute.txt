@@ -1,0 +1,15 @@
+/Users/aniyacorivano/C-For-Loop-Drills/DrillFive/bin/Debug/net10.0/DrillFive
+/Users/aniyacorivano/C-For-Loop-Drills/DrillFive/bin/Debug/net10.0/DrillFive.deps.json
+/Users/aniyacorivano/C-For-Loop-Drills/DrillFive/bin/Debug/net10.0/DrillFive.runtimeconfig.json
+/Users/aniyacorivano/C-For-Loop-Drills/DrillFive/bin/Debug/net10.0/DrillFive.dll
+/Users/aniyacorivano/C-For-Loop-Drills/DrillFive/bin/Debug/net10.0/DrillFive.pdb
+/Users/aniyacorivano/C-For-Loop-Drills/DrillFive/obj/Debug/net10.0/DrillFive.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniyacorivano/C-For-Loop-Drills/DrillFive/obj/Debug/net10.0/DrillFive.AssemblyInfoInputs.cache
+/Users/aniyacorivano/C-For-Loop-Drills/DrillFive/obj/Debug/net10.0/DrillFive.AssemblyInfo.cs
+/Users/aniyacorivano/C-For-Loop-Drills/DrillFive/obj/Debug/net10.0/DrillFive.csproj.CoreCompileInputs.cache
+/Users/aniyacorivano/C-For-Loop-Drills/DrillFive/obj/Debug/net10.0/DrillFive.sourcelink.json
+/Users/aniyacorivano/C-For-Loop-Drills/DrillFive/obj/Debug/net10.0/DrillFive.dll
+/Users/aniyacorivano/C-For-Loop-Drills/DrillFive/obj/Debug/net10.0/refint/DrillFive.dll
+/Users/aniyacorivano/C-For-Loop-Drills/DrillFive/obj/Debug/net10.0/DrillFive.pdb
+/Users/aniyacorivano/C-For-Loop-Drills/DrillFive/obj/Debug/net10.0/DrillFive.genruntimeconfig.cache
+/Users/aniyacorivano/C-For-Loop-Drills/DrillFive/obj/Debug/net10.0/ref/DrillFive.dll

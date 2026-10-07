@@ -9,7 +9,10 @@ class Program
 
         // TODO: Write a for loop that starts at the last index (original.Length - 1) 
         // and counts down to 0, appending each character to 'reversed'.
-        for (;;)
+        for (int i = original.Length -1; i >= 0; i--)
+        {
+            reversed += original[i];
+        }
         Console.WriteLine($"Reversed: {reversed}");
     }
 }
