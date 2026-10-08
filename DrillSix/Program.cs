@@ -13,8 +13,9 @@ class Program
 
         for (int i = 0; i < numbers.Length; i++)
         {
-            if (numbers[i] % 2 == 0);
-                
+            if (numbers % 2 == 0);
+               evenCount += numbers[i];
+               Console.WriteLine(evenCount); 
         }
 
         Console.WriteLine($"Evens: {evenCount}, Odds: {oddCount}");

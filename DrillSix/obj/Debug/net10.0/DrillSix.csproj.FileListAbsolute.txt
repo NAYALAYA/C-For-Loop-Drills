@@ -1,0 +1,15 @@
+/Users/aniyacorivano/C-For-Loop-Drills/DrillSix/obj/Debug/net10.0/DrillSix.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniyacorivano/C-For-Loop-Drills/DrillSix/obj/Debug/net10.0/DrillSix.AssemblyInfoInputs.cache
+/Users/aniyacorivano/C-For-Loop-Drills/DrillSix/obj/Debug/net10.0/DrillSix.AssemblyInfo.cs
+/Users/aniyacorivano/C-For-Loop-Drills/DrillSix/obj/Debug/net10.0/DrillSix.csproj.CoreCompileInputs.cache
+/Users/aniyacorivano/C-For-Loop-Drills/DrillSix/obj/Debug/net10.0/DrillSix.sourcelink.json
+/Users/aniyacorivano/C-For-Loop-Drills/DrillSix/bin/Debug/net10.0/DrillSix
+/Users/aniyacorivano/C-For-Loop-Drills/DrillSix/bin/Debug/net10.0/DrillSix.deps.json
+/Users/aniyacorivano/C-For-Loop-Drills/DrillSix/bin/Debug/net10.0/DrillSix.runtimeconfig.json
+/Users/aniyacorivano/C-For-Loop-Drills/DrillSix/bin/Debug/net10.0/DrillSix.dll
+/Users/aniyacorivano/C-For-Loop-Drills/DrillSix/bin/Debug/net10.0/DrillSix.pdb
+/Users/aniyacorivano/C-For-Loop-Drills/DrillSix/obj/Debug/net10.0/DrillSix.dll
+/Users/aniyacorivano/C-For-Loop-Drills/DrillSix/obj/Debug/net10.0/refint/DrillSix.dll
+/Users/aniyacorivano/C-For-Loop-Drills/DrillSix/obj/Debug/net10.0/DrillSix.pdb
+/Users/aniyacorivano/C-For-Loop-Drills/DrillSix/obj/Debug/net10.0/DrillSix.genruntimeconfig.cache
+/Users/aniyacorivano/C-For-Loop-Drills/DrillSix/obj/Debug/net10.0/ref/DrillSix.dll
